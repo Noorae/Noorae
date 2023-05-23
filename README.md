@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<p align="center">Currently trying to learn and explore as much as I can. <br>
+<p align="center">In the process of trying to learn and explore as much as I can. <br>
   
 <h5 align="center">Languages</h5>
  
