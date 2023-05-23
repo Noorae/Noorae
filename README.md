@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 🔮
 
-<!--
-**Noorae/Noorae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">Currently studying in Tampere University of Applied Sciences<br>
+<sub>BBA, Degree Programme in Business Information Systems</sub></p>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">Currently trying to learn and explore as much as I can. <br>
+  
+<h5 align="center">Languages</h5>
+ 
+<p align= "middle">
+ <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;">
+ <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width: 100%;">
+ <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width: 100%;">
+ <img alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" style="max-width: 100%;">
+ <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;">
+ </p>
+<br>
+<p align="middle"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Noorae&amp;show_icons=true&amp;count_private=true&amp;theme=material-palenight" style="max-width: 100%;">
+  
+</p>
+
+
