@@ -16,6 +16,8 @@
  <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width: 100%;">
  <img alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" style="max-width: 100%;">
  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;">
+ <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
+  
  </p>
 <br>
 <p align="middle"><img align="center" src="https://github-readme-stats-gamma-jade.vercel.app/api?username=Noorae&amp;show_icons=true&amp;count_private=true&amp;theme=material-palenight" style="max-width: 100%;">
