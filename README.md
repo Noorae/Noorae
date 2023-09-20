@@ -18,7 +18,7 @@
  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="max-width: 100%;">
  </p>
 <br>
-<p align="middle"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Noorae&amp;show_icons=true&amp;count_private=true&amp;theme=material-palenight" style="max-width: 100%;">
+<p align="middle"><img align="center" src="https://github-readme-stats-gamma-jade.vercel.app/api?username=Noorae&amp;show_icons=true&amp;count_private=true&amp;theme=material-palenight" style="max-width: 100%;">
   
 </p>
 
