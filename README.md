@@ -20,8 +20,6 @@
   
  </p>
 <br>
-<p align="middle"><img align="center" src="https://github-readme-stats-gamma-jade.vercel.app/api?username=Noorae&amp;show_icons=true&amp;count_private=true&amp;theme=material-palenight" style="max-width: 100%;">
-  
-</p>
+
 
 
