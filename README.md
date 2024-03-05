@@ -1,7 +1,7 @@
 # Hi there 🔮
 
 
-<p align="center">Currently studying in Tampere University of Applied Sciences<br>
+<p align="center">Currently studying in Tampere University of Applied Sciences for my second year in<br>
 <sub>BBA, Degree Programme in Business Information Systems</sub></p>
 <br>
 <br>
@@ -20,6 +20,33 @@
   
  </p>
 <br>
+<p>Goals for Spring 2024: Mobile development with kotlin, getting to know Spring Boot, and a group project in data with python. <br>
+<!-- Table of Contents -->
+
+## Projects
+
+-   [Learn Languages App](#Learn_Languages_App)
+-   [Weather App](#Weather_App)
+-   [WineCrafter](#WineCrafter)
+-   [Search Pokemon](#Search_Pokemon)
+    <!-- /Table of Contents -->
+
+## Learn_Languages_App
+
+[Link to repo](https://github.com/Noorae/Learn-languages-app)
+
+## Weather_App
+
+[Link to repo](https://github.com/Noorae/weather-app)
+## WineCrafter
+
+[Link to repo](https://github.com/Noorae/WineCrafter)
+
+## Search_Pokemon
+[Link to repo](https://github.com/Noorae/Search-Pokemon)
+
+
+
 
 
 
