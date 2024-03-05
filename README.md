@@ -32,6 +32,8 @@
     <!-- /Table of Contents -->
 
 ## Learn_Languages_App
+Description: <br>
+Languages App designed for learning english, korean or swedish for finnish students. App provices a teacher view with admin access to add more words to the application, and a student view to complete language quizzes.
 
 [Link to repo](https://github.com/Noorae/Learn-languages-app)
 
@@ -44,6 +46,9 @@
 
 ## Search_Pokemon
 [Link to repo](https://github.com/Noorae/Search-Pokemon)
+
+## Contacts_App
+[Link to repo](https://github.com/Noorae/Introduction_to_Programming_Final_Java_Project)
 
 
 
