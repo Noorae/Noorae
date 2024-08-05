@@ -121,6 +121,10 @@ Android Mobile App for your personal recipes and inspirational recipes fetched f
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png" alt="Material Design" title="Material Design"/></code>
 </div>
 
+<br>
+
+[Recipe App repo](https://github.com/Noorae/Recipe-App)
+
 ## Learn_Languages_App
 
 Languages App designed for learning english, korean or swedish for finnish students. App provices a teacher view with admin access to add more words to the application, and a student view to complete language quizzes.<br><br>
