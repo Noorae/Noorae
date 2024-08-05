@@ -12,7 +12,7 @@
 
 
 
-## Techonolgies I have worked with:
+## Technologies I have worked with:
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noorae&theme=default&show_icons=true&hide_border=true&layout=compact" alt="noorae's GitHub Stats" /></div>
 
