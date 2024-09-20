@@ -168,7 +168,12 @@ Languages App designed for learning english, korean or swedish for finnish stude
 
 ## Weather_App
 
-A Simple web application for weather forecasts.
+A Simple web application for weather forecasts. Search weather by a location name and see forecasts for up to 2 days. Both Celsius and Fahrenheit are supported.
+
+<div align="center">
+<img width="320" alt= "WeatherApp1" src="https://github.com/user-attachments/assets/327ab1da-c2dd-4415-a0a6-412f34f9752d">
+</div>
+
 
 <br>
 <div align="center">
