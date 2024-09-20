@@ -81,6 +81,27 @@
 PWA - Progressive Web Application, to manage shifts and stand-in workers for companies.
 <br>
 
+This project was developed for Entail Oy with a five member team during spring and summer 2024. 
+The primary functions of the application include 3 views: shift worker view, manager view and admin view.<br> 
+<br>
+Shift workers:<br>
+Can look for and accept open shifts and recommended shifts based on their personal time and day preferences.<br>
+View a personal calendar to see accepted upcoming and past shifts.<br>
+Add skills and preferences to their profiles.<br>
+
+Managers:<br>
+Add new shifts to managed units.<br>
+Manage unit information.<br>
+View unit based calendar and shared calendar that includes all managed units to view shift data.<br>
+Add and manage communities and add users to communities.<br>
+
+Admins:<br>
+Add and manage users and units.<br>
+View a summary of open and taken shift data for all organizations units.<br>
+View unit and organization based calendar to view shift data.<br>
+
+
+
 <div align="center">
   
 <img width="173" alt="Phone1" src="https://github.com/user-attachments/assets/db3852df-2501-4eb6-924d-419880569d31">
@@ -105,6 +126,10 @@ PWA - Progressive Web Application, to manage shifts and stand-in workers for com
 ## Recipe_App
 
 Android Mobile App for your personal recipes and inspirational recipes fetched from Spoonacular API.
+
+Recipe App was my first project using kotlin, introducing coroutines and android development. Primary functions of the application include searching for existing recipes from Spoonacular API and saving favorite recipes to a list and adding your personal recipes with a picture to the database. The database is done using androids ROOM library and uses devices local memory to store the recipe data with SQLite. A simple shopping list can also be used and save to your device. 
+
+
 <div align="center">
 <img width="170" alt= "RecipeApp1" src="https://github.com/user-attachments/assets/4249e18b-0bd3-4a71-ac0b-573f52add197">
 <img width="170" alt= "RecipeApp2" src="https://github.com/user-attachments/assets/4a0b69c5-a5e1-4a0e-a89a-a2f8dff53ea6">
