@@ -68,6 +68,7 @@
 <!-- Table of Contents -->
 ## Projects
 
+-   [Pearl - Compare satellite images](#Pearl-satellite-images)
 -   [Staff App](#Staff_App)
 -   [Recipe App](#Recipe_App)
 -   [Learn Languages App](#Learn_Languages_App)
@@ -75,6 +76,30 @@
 -   [WineCrafter](#WineCrafter)
 -   [Search Pokemon](#Search_Pokemon)
     <!-- /Table of Contents -->
+
+## Pearl satellite images
+
+Pearl Satellite Comparison is a project designed to compare satellite imagery for environmental monitoring and ecosystem protection. 
+This repository contains the tools, and resources necessary to visualize, and compare past satellite images to support ecosystem preservation efforts.
+
+Users can compare satellite imagery from different date to observe environmental changes over time.
+
+Additionally the application includes three key layers for enhanced data visualization:
+1. Endangerment Species: Displays Finnish sightings of endangered species.
+2. Conservation Areas: Highlights protected areas, such as national parks and nature reserves.
+3. User Observations: Enables users to report incidents or observations, which are then displayed on the map, providing real-time insights into local conservation efforts.
+
+<div align="center">
+  
+<img width="450" alt="Phone1" src="https://github.com/user-attachments/assets/9ad4c649-4503-41cc-9a6a-22315153f9de"><br><br>
+
+
+[Project repository](https://github.com/Pearl-image-comparer/Pearl)
+</div>
+
+
+
+
 
 ## Staff_App
 
