@@ -83,6 +83,7 @@ Pearl Satellite Comparison is a project designed to compare satellite imagery fo
 This repository contains the tools, and resources necessary to visualize, and compare past satellite images to support ecosystem preservation efforts.
 
 Users can compare satellite imagery from different date to observe environmental changes over time.
+[Link to pearl website](https://ec2-13-60-246-10.eu-north-1.compute.amazonaws.com/)
 
 Additionally the application includes three key layers for enhanced data visualization:
 1. Endangerment Species: Displays Finnish sightings of endangered species.
@@ -251,19 +252,6 @@ Android mobile game about winemaking.
 <br>
 
 [Search Pokemon repo](https://github.com/Noorae/Search-Pokemon)
-
-## Contacts_App
-
-Where it all started. My very first not-so-optimized java contacts app project. 
-
-<br>
-<div align="center">
-  Build with: <br>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
-</div>
-<br>
-
-[Contacts App repo](https://github.com/Noorae/Introduction_to_Programming_Final_Java_Project)
 
 
 
