@@ -4,7 +4,7 @@
 <p>Currently studying in Tampere University of Applied Sciences for my third year in<br>
 <strong>BBA, Degree Programme in Business Information Systems.</strong></p>
 <br>
-<p>I am passionate about web and mobile app development, and have primarily worked on projects in these areas. My experience includes small group projects and personal endeavors for my university. As I embark on new projects, I continuously discover how much more there is to learn about designing great applications. With each project, I strive to expand my knowledge and skills. My next goal is to participate in larger projects to further my learning journey. <br><br> Explore my work below: 👇
+<p>I am passionate about web and mobile app development, and have primarily worked on projects in these areas. My experience includes small group projects and personal ones for my university. As I join on new projects, I continuously discover how much more there is to learn about designing and coding great applications. With each project, I strive to expand my knowledge and skills a bit further. My next goal is to participate in larger projects to further my learning journey. <br><br> Explore my work below: 👇
 
  
 <br> 
